@@ -1,6 +1,6 @@
 ## Montana Chapter of the ASA Meeting, Fall 2020
 
-Our meeting will take place during the afternoon on _Friday, October 9_$^{th}. Our keynote speaker, Dr. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing algorithmic fairness and she has used her skills as a statistician for social justice. To avoid Zoom fatigue our chapter meeting this fall will be shorter than usual. Please see below for the schedule
+Our meeting will take place during the afternoon on _Friday, October 9, 2020_. Our keynote speaker, Dr. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing algorithmic fairness and she has used her skills as a statistician for social justice. To avoid Zoom fatigue our chapter meeting this fall will be shorter than usual. Please see below for the schedule
 
 ### Schedule 
 
