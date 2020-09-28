@@ -8,20 +8,20 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
 - __12:30-1:00pm, MST__ Optional informal Lunch and "meet and greet"    
 
-_Please log in to socalize with chapter members you don't see on a regular basis before the program begins._ 
+    _Please log in to socalize with chapter members you don't see on a regular basis before the program begins._ 
 
 - __1:10 - 2:00pm, MST__ Keynote Address: Dr. Kristian Lum, UPenn
 
-_Title and Abstract to come._ 
+    _Title and Abstract to come._ 
 
 - __2:15 - 3:00pm, MST__ Small group discussions about how to develop anti-racist curriculum in Statistics courses.  
 
-_Please be ready to have open discussions within small groups regarding how we can begin to overahaul curriculum in Statistics courses and adjust our practices to be actively anti-racist. Discussion materials and prompts will be provided, but are by no means meant to be strictly followed if discussions evolve in a different way within groups._
+    _Please be ready to have open discussions within small groups regarding how we can begin to overahaul curriculum in Statistics courses and adjust our practices to be actively anti-racist. Discussion materials and prompts will be provided, but are by no means meant to be strictly followed if discussions evolve in a different way within groups._
 
 - __3:00 - 3:15pm, MST__ Break 
 - __3:20 - 3:40pm, MST__ Moses Obiri, Take-aways and experirences from the interview process for jobs in "big tech" 
 
-_Title and Abstract to come._ 
+    _Title and Abstract to come._ 
 
 - __3:45 - 4:00pm, MST__ MT Chapter business meeting.
 
