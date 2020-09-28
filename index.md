@@ -29,23 +29,25 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
 We will use _Zoom_ to conduct this meeting. Please join using the following information: 
 
-Topic: Montana Chapter of the American Statistical Association, Annual Meeting
-Time: Oct 9, 2020 12:30 PM Mountain Time (US and Canada)
+___Topic: Montana Chapter of the American Statistical Association, Annual Meeting___
+__Time: Oct 9, 2020 12:30 PM Mountain Time (US and Canada)__
 
 Join Zoom Meeting
-https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09
+[https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09](https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09)
 
 Meeting ID: 851 6085 6822
 Passcode: MT-ASAf20
 
-Dial by your location
-        +1 253 215 8782 US (Tacoma)
-        +1 346 248 7799 US (Houston)
-        +1 669 900 9128 US (San Jose)
-        +1 301 715 8592 US (Germantown)
-        +1 312 626 6799 US (Chicago)
-        +1 646 558 8656 US (New York)
-Meeting ID: 851 6085 6822
-Passcode: 885993716
-Find your local number: https://us02web.zoom.us/u/kdJuwYmW1Q
+Dial by your location.   
+
+    +1 253 215 8782 US (Tacoma)
+    +1 346 248 7799 US (Houston)
+    +1 669 900 9128 US (San Jose)
+    +1 301 715 8592 US (Germantown)
+    +1 312 626 6799 US (Chicago)
+    +1 646 558 8656 US (New York)
+    
+Meeting ID: 851 6085 6822   
+Passcode: 885993716   
+Find your local number: [https://us02web.zoom.us/u/kdJuwYmW1Q](https://us02web.zoom.us/u/kdJuwYmW1Q)
 
