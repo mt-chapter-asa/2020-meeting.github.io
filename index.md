@@ -1,16 +1,51 @@
 ## Montana Chapter of the ASA Meeting, Fall 2020
 
-Our meeting will take place during the afternoon on _Friday, October 9, 2020_. Our keynote speaker, Dr. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing algorithmic fairness and she has used her skills as a statistician for social justice. To avoid Zoom fatigue our chapter meeting this fall will be shorter than usual. Please see below for the schedule
+Our meeting will take place during the afternoon on _Friday, October 9, 2020_. Our keynote speaker, Dr. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing algorithmic fairness and how she has used Statistics for social justice. 
 
 ### Schedule (all times in MST)
 
-- __12:00-1:00pm, MST__ Informal Lunch or "meet and greet?" 
-- __1:10 - 2:00pm, MST__ Keynote Address: Dr. Kristian Lum 
-- __2:10 - 3:00pm, MST__ Small group discussions about how to develop anti-racist curriculum in Statistics courses. More details to come. 
-- __3:00 - 3:15pm, MST__ Break
-- __3:20 - 3:40pm, MST__ Moses Obiri, interview process for jobs in "big tech." Take-aways and experiences
-- __4:00 - 5:00pm, MST__ MT Chapter business meeting.
+To avoid _Zoom fatigue_ our program will be shorter than it has been in past years. The schedule is as follows: 
+
+- __12:30-1:00pm, MST__ Optional informal Lunch and "meet and greet"    
+
+_Please log in to socalize with chapter members you don't see on a regular basis before the program begins._ 
+
+- __1:10 - 2:00pm, MST__ Keynote Address: Dr. Kristian Lum, UPenn
+
+_Title and Abstract to come._ 
+
+- __2:15 - 3:00pm, MST__ Small group discussions about how to develop anti-racist curriculum in Statistics courses.  
+
+_Please be ready to have open discussions within small groups regarding how we can begin to overahaul curriculum in Statistics courses and adjust our practices to be actively anti-racist. Discussion materials and prompts will be provided, but are by no means meant to be strictly followed if discussions evolve in a different way within groups._
+
+- __3:00 - 3:15pm, MST__ Break 
+- __3:20 - 3:40pm, MST__ Moses Obiri, Take-aways and experirences from the interview process for jobs in "big tech" 
+
+_Title and Abstract to come._ 
+
+- __3:45 - 4:00pm, MST__ MT Chapter business meeting.
 
 ### Join information 
 
 We will use _Zoom_ to conduct this meeting. Please join using the following information: 
+
+Topic: Montana Chapter of the American Statistical Association, Annual Meeting
+Time: Oct 9, 2020 12:30 PM Mountain Time (US and Canada)
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09
+
+Meeting ID: 851 6085 6822
+Passcode: MT-ASAf20
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 9128 US (San Jose)
+        +1 301 715 8592 US (Germantown)
+        +1 312 626 6799 US (Chicago)
+        +1 646 558 8656 US (New York)
+Meeting ID: 851 6085 6822
+Passcode: 885993716
+Find your local number: https://us02web.zoom.us/u/kdJuwYmW1Q
+
