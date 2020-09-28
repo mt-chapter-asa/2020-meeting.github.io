@@ -29,14 +29,14 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
 We will use _Zoom_ to conduct this meeting. Please join using the following information: 
 
-___Topic: Montana Chapter of the American Statistical Association, Annual Meeting___
+___Topic: Montana Chapter of the American Statistical Association, Annual Meeting___   
 __Time: Oct 9, 2020 12:30 PM Mountain Time (US and Canada)__
 
-Join Zoom Meeting
+Join Zoom Meeting:    
 [https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09](https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09)
 
-Meeting ID: 851 6085 6822
-Passcode: MT-ASAf20
+Meeting ID: 851 6085 6822   
+Passcode: MT-ASAf20s
 
 Dial by your location.   
 
