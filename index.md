@@ -23,7 +23,7 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
     _Title and Abstract to come._ 
 
-- __3:45 - 4:00pm, MST__ MT Chapter business meeting.
+- __3:45 - 4:30pm, MST__ MT Chapter business meeting.
 
 ### Join information 
 
