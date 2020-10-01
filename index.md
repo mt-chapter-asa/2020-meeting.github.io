@@ -19,9 +19,9 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
     _Please be ready to have open discussions within small groups regarding how we can begin to overahaul curriculum in Statistics courses and adjust our practices to be actively anti-racist. Discussion materials and prompts will be provided, but are by no means meant to be strictly followed if discussions evolve in a different way within groups._
 
 - __3:00 - 3:15pm, MST__ Break 
-- __3:20 - 3:40pm, MST__ Moses Obiri, Take-aways and experirences from the interview process for jobs in "big tech" 
+- __3:20 - 3:40pm, MST__ Moses Obiri, _Interview and Internship Experiences_
 
-    _Title and Abstract to come._ 
+    _Moses Obiri is in his final semester pursuing Ph.D. in Statistics at Montana State University. His Ph.D. research is focused on Design of Experiments and data analysis. He was recently a PhD intern in the Applied Statistics and Computational Modeling division at Pacific Northwest National Laboratory. His interview and internship experiences gained over the past year will be shared in this presentation._ 
 
 - __3:45 - 4:30pm, MST__ MT Chapter business meeting.
 
