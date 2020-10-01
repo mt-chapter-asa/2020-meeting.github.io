@@ -14,7 +14,7 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
     _Title and Abstract to come._ 
 
-- __2:15 - 3:00pm, MST__ Small group discussions about how to develop anti-racist curriculum in Statistics courses.  
+- __2:15 - 3:00pm, MST__ Small group discussions about the history of Statistics, Statistics for Social Justice, and beginning the development of anti-racist curriculum in Statistics courses.  
 
     _Please be ready to have open discussions within small groups regarding how we can begin to overahaul curriculum in Statistics courses and adjust our practices to be actively anti-racist. Discussion materials and prompts will be provided, but are by no means meant to be strictly followed if discussions evolve in a different way within groups._
 
