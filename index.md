@@ -36,7 +36,7 @@ Join Zoom Meeting:
 [https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09](https://us02web.zoom.us/j/85160856822?pwd=SU5NSmhpdE50OE43dHJTK0VFV0NNUT09)
 
 Meeting ID: 851 6085 6822   
-Passcode: MT-ASAf20s
+Passcode: MT-ASAf20
 
 Dial by your location.   
 
