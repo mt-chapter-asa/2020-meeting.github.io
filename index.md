@@ -74,9 +74,8 @@ Find your local number: [https://us02web.zoom.us/u/kdJuwYmW1Q](https://us02web.z
 
     - Shut Down STEM: [https://www.shutdownstem.com/](https://www.shutdownstem.com/)
 
-- Essential Understandings Regarding Montana Indians: [https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101
+- Essential Understandings Regarding Montana Indians: [https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf](https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
 - Talk Math with your friends recording of Dr. Belin Tsinnajinnie’s talk, _Disrupting Settler Colonial Mindsets in Mathematics._ [https://youtu.be/OYrx2tf6cYo](https://youtu.be/OYrx2tf6cYo)
-/essentialunderstandings.pdf](https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
 - ASA's Justice Equity Diversity Inlusion JEDI outreach group: [https://cwstat.org/asa-justice-equity-diversity-inclusion-jedi-outreach-group/](https://cwstat.org/asa-justice-equity-diversity-inclusion-jedi-outreach-group/)
 - Nice White Parents Podcast: [https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
 
