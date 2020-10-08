@@ -53,6 +53,8 @@ Find your local number: [https://us02web.zoom.us/u/kdJuwYmW1Q](https://us02web.z
 
 ### Small Group Discussion Resources
 
+Please find a set of discussion prompts in the shared google doc: [https://tinyurl.com/y3n57y8p](https://tinyurl.com/y3n57y8p)
+
 #### More work from Dr. Lum about predictive policing and algorithmic fairness
 
 - [https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x)
