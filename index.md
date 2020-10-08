@@ -12,7 +12,7 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
 - __1:10 - 2:00pm, MST__ Keynote Address: Dr. Kristian Lum, UPenn
 
-    _Title and Abstract to come._ 
+    _r. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing how she has used Statistics for Social Justice_ 
 
 - __2:15 - 3:00pm, MST__ Small group discussions about the history of Statistics, Statistics for Social Justice, and beginning the development of anti-racist curriculum in Statistics courses.  
 
@@ -61,11 +61,13 @@ Find your local number: [https://us02web.zoom.us/u/kdJuwYmW1Q](https://us02web.z
 
 - [https://amp.theatlantic.com/amp/article/612457/](https://amp.theatlantic.com/amp/article/612457/)
 
+    - ASA’s profile of Hoffman: [https://magazine.amstat.org/blog/2018/10/29/sih-hoffman](https://magazine.amstat.org/blog/2018/10/29/sih-hoffman)  
     - Related podcast: [https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/](https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/)
     
-#### Significance article about Prominent Statisticians and their ties to Eugenics
+#### Significance article about Sir Francis Galton and his ties to Eugenics
 
 - Robert Langkjaer‐Bain, The troubling legacy of Francis Galton, _Significance_, Vol. 16 No. 3, 2019-05-29.  [https://doi.org/10.1111/j.1740-9713.2019.01275.](https://doi.org/10.1111/j.1740-9713.2019.01275.x)
+
 
 #### Other resources for reading, learning, un-learning, and getting involved 
 
