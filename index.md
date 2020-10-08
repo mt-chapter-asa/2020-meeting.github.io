@@ -51,3 +51,33 @@ Meeting ID: 851 6085 6822
 Passcode: 885993716   
 Find your local number: [https://us02web.zoom.us/u/kdJuwYmW1Q](https://us02web.zoom.us/u/kdJuwYmW1Q)
 
+### Small Group Discussion Resources
+
+#### More work from Dr. Lum about predictive policing and algorithmic fairness
+
+- [https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x)
+
+#### Dr. Ibram X. Kendi on Statistician Frederick Hoffman's work and _The American Nightmare_
+
+- [https://amp.theatlantic.com/amp/article/612457/](https://amp.theatlantic.com/amp/article/612457/)
+
+    - Related podcast: [https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/](https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/)
+    
+#### Significance article about Prominent Statisticians and their ties to Eugenics
+
+- Robert Langkjaer‐Bain, The troubling legacy of Francis Galton, _Significance_, Vol. 16 No. 3, 2019-05-29.  [https://doi.org/10.1111/j.1740-9713.2019.01275.](https://doi.org/10.1111/j.1740-9713.2019.01275.x)
+
+#### Other resources for reading, learning, un-learning, and getting involved 
+
+- [https://github.com/sctyner/history_of_statistics/](https://github.com/sctyner/history_of_statistics/)
+- [https://www.aaas.org/news/aaas-ceo-statement-shutdownstem-and-black-lives-matter](https://www.aaas.org/news/aaas-ceo-statement-shutdownstem-and-black-lives-matter)
+
+    - [https://www.shutdownstem.com/](https://www.shutdownstem.com/)
+
+- Talk Math with your friends recording of Dr. Belin Tsinnajinnie’s talk, _Disrupting Settler Colonial Mindsets in Mathematics._ [https://youtu.be/OYrx2tf6cYo](https://youtu.be/OYrx2tf6cYo)
+- [https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf](https://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
+- [https://cwstat.org/asa-justice-equity-diversity-inclusion-jedi-outreach-group/](https://cwstat.org/asa-justice-equity-diversity-inclusion-jedi-outreach-group/)
+- Nice White Parents Podcast, _Discusses segregation in NYC Schools and _ [https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html)
+
+
+
