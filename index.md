@@ -58,6 +58,10 @@ Please find a set of discussion prompts in the shared google doc: [https://tinyu
 #### More work from Dr. Lum about predictive policing and algorithmic fairness
 
 - [https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1740-9713.2016.00960.x)
+    
+#### Significance article about Sir Francis Galton and his, Karl Pearson's, and R.A. Fisher's ties to Eugenics and different approaches to acknowledging history
+
+- Robert Langkjaer‐Bain, The troubling legacy of Francis Galton, _Significance_, Vol. 16 No. 3, 2019-05-29.  [https://doi.org/10.1111/j.1740-9713.2019.01275.](https://doi.org/10.1111/j.1740-9713.2019.01275.x)
 
 #### Dr. Ibram X. Kendi on Statistician Frederick Hoffman's work and _The American Nightmare_
 
@@ -65,10 +69,6 @@ Please find a set of discussion prompts in the shared google doc: [https://tinyu
 
     - ASA’s profile of Hoffman: [https://magazine.amstat.org/blog/2018/10/29/sih-hoffman](https://magazine.amstat.org/blog/2018/10/29/sih-hoffman)  
     - Related podcast: [https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/](https://brenebrown.com/podcast/brene-with-ibram-x-kendi-on-how-to-be-an-antiracist/)
-    
-#### Significance article about Sir Francis Galton and his ties to Eugenics
-
-- Robert Langkjaer‐Bain, The troubling legacy of Francis Galton, _Significance_, Vol. 16 No. 3, 2019-05-29.  [https://doi.org/10.1111/j.1740-9713.2019.01275.](https://doi.org/10.1111/j.1740-9713.2019.01275.x)
 
 
 #### Other resources for reading, learning, un-learning, and getting involved 
