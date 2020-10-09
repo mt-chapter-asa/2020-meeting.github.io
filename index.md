@@ -12,7 +12,7 @@ To avoid _Zoom fatigue_ our program will be shorter than it has been in past yea
 
 - __1:10 - 2:00pm, MST__ Keynote Address: Dr. Kristian Lum, UPenn
 
-    _r. Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing how she has used Statistics for Social Justice_ 
+    _Kristian Lum [https://highlights.cis.upenn.edu/welcome-kristian-lum/](https://highlights.cis.upenn.edu/welcome-kristian-lum/) will be discussing how she has used Statistics for Social Justice_ 
 
 - __2:15 - 3:00pm, MST__ Small group discussions about the history of Statistics, Statistics for Social Justice, and beginning the development of anti-racist curriculum in Statistics courses.  
 
